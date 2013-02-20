@@ -110,7 +110,7 @@
 			</connections>
 			<display>false</display>
 			<creation_date>2013-02-20 18:48:25</creation_date>
-			<updated_date>2013-02-20 18:49:12</updated_date>
+			<updated_date>2013-02-20 19:44:03</updated_date>
 			<model_property>
 				<name>Project Name</name>
 				<value></value>
@@ -165,6 +165,38 @@
 			</connections>
 			<physical_name>Clientes</physical_name>
 			<logical_name>Clientes</logical_name>
+			<description></description>
+			<constraint></constraint>
+			<primary_key_name></primary_key_name>
+			<option></option>
+			<columns>
+			</columns>
+			<indexes>
+			</indexes>
+			<complex_unique_key_list>
+			</complex_unique_key_list>
+			<table_properties>
+				<schema></schema>
+				<without_oids>true</without_oids>
+			</table_properties>
+		</table>
+		<table>
+			<id>1</id>
+			<height>75</height>
+			<width>120</width>
+				<font_name>Lucida Grande</font_name>
+				<font_size>9</font_size>
+			<x>202</x>
+			<y>48</y>
+			<color>
+				<r>128</r>
+				<g>128</g>
+				<b>192</b>
+			</color>
+			<connections>
+			</connections>
+			<physical_name>NEW_TABLE</physical_name>
+			<logical_name>NEW_TABLE</logical_name>
 			<description></description>
 			<constraint></constraint>
 			<primary_key_name></primary_key_name>
